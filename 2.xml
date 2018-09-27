@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<?xml-stylesheet type="text/css" href="2.css"?>
+<!DOCTYPE employee SYSTEM "employ.dtd">
+<employee>
+<heading>LIST OF STUDENTS</heading>
+<text1>Balaji</text1> 
+<text2>Akash Suresh</text2> 
+<text3>DevaGanesh</text3>
+<text4>Akhil Nair</text4>
+<heading>SELECTED CANDIDATES</heading>
+<text1>Balaji</text1>
+<text2>DevaGanesh</text2>
+</employee>
+
